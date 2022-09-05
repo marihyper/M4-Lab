@@ -27,7 +27,7 @@ public interface Stack<E> {
     public void push(E element) throws OverflowException;
 
     /**
-     * Retira um elemento da pilha.
+     * Retira um elemento da pilha. xxxx
      * @return O elemento retirado
      */
     public E pop() throws UnderflowException;
